@@ -4,7 +4,7 @@
 ### Focus on
 * Using Signup by email, and login
 * Using Fragments, RecyclerView, Retrofit2, Gson, Picasso
-* Add IT question with answer for another user and learn by another information
+* Add IT question with answer for another user and learn
 * Learn IT Chapter by chapter
 
 #### Some Screenshots of this app
