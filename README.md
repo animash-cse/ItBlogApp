@@ -8,6 +8,6 @@
 * Learn IT Chapter by chapter
 
 #### Some Screenshots of this app
- Home Screen                            | Add answer and question                             | Learn                         		                    
+ Home Screen                            | Add answer and question                             | Learn                         		      | Details                         		                                  
 :------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:|:-------------------------------------------:
  <img src="Screenshot1[1].jpg" width="200"> | <img src="Screenshot2[1].jpg" width="200"> | <img src="Screenshot3[1].jpg" width="200"> | <img src="Screenshot4[1].jpg" width="200"> 
